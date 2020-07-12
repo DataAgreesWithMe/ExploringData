@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 
 def main():
 
-    st.title('Exploratory Analysis Tool')
+    st.title('Exploring Your Data')
 
-    st.info('''Welcome to the Exploratory Analysis Tool. This is a simple application to getting basic information and quick data visualization for generic csv files. 
+    st.info('''Welcome to the Explore Your Data tool. This is a simple application to getting basic information and quick data visualization for generic csv files. 
                 Keep in mind that it is not a complete tool and very large files will reduce application performance.
                 If you find a bug or want to help improve this application, the source code is on the link on the left side.''')
 
@@ -26,7 +26,7 @@ def main():
         st.success('File successfully uploaded!')
 
 
-        st.sidebar.title('EAT - Menu')
+        st.sidebar.title('EYD - Menu')
 
         st.title('Dataframe basic informations')
 
