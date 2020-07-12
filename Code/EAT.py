@@ -106,11 +106,11 @@ def main():
 
 
     st.sidebar.subheader('Brief tutorial about how this application works')
-    #st.sidebar.video("https://youtu.be/hFUznmU2228")
+    #st.sidebar.video("")
 
 
     st.sidebar.markdown("**Help me to improve this application. See the source code below. Follow me!**")
-    st.sidebar.markdown("[Source code](https://github.com/rafaelloni/EAT_app)")
+    st.sidebar.markdown("[Source code](https://github.com/DataAgreesWithMe/ExploringData)")
     st.sidebar.markdown("**About the author:**")
     st.sidebar.markdown("[Chris Gallagher](https://www.linkedin.com/in/chris-gallagher-b7447743/)")
     st.sidebar.markdown(" ` Version 0.0.1 ` ")
