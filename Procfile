@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run "Code\EploreYourData.py"
+web: sh setup.sh && streamlit run app.py
